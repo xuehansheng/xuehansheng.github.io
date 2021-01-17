@@ -21,6 +21,9 @@ html {
   min-height: 100%;
 }
 
+.img-thumbnail-xue{padding:6px;line-height:1.42857143;background-color:#ffffff;border:1px solid #dddddd;
+  border-radius:6px;display:inline-block;max-width: 60%;max-height: 80%;}
+
 /*.navbar-default {
     background-image: -webkit-linear-gradient(top, #ffffff 0%, #dfdfdf 100%);
     background-image: linear-gradient(to bottom, #ffffff 0%, #dfdfdf 100%);
