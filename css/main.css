@@ -1,16 +1,12 @@
 @charset "UTF-8";
-/**
- * 
- * @authors Han Zhao (han.zhao@uwaterloo.ca)
- * @date    2014-11-22 22:24:31
- * @version $Id$
- */
+
 body {
     font-size: 14px;
     margin-bottom: 60px;
     padding-top: 60px;
     padding-bottom: 20px;
-    font-family:"Helvetica Neue",
+    font-family:Optima,
+    "Helvetica Neue",
       Segoe,"Segoe UI",
       "Lucida Sans Unicode","Lucida Grande",
       "Avenir","Seravek","Ubuntu" !important;
@@ -103,11 +99,10 @@ bg-primary:hover{background-color:#0055AA}
   border:1px solid #dddddd;
   border-radius:6px;
   display:inline-block;
-  max-width: 68%;
+  max-width: 63%;
   max-height: 80%;
 }
 
-/* change color to CMU red */
 a {
   color: #0055AA;
 }
