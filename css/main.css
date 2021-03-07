@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
 body {
-    font-size: 14px;
+    font-size: 15px;
     margin-bottom: 60px;
     padding-top: 60px;
     padding-bottom: 20px;
-    font-family:Optima,
+    font-family:Candara,
+    /*Optima,*/
     "Helvetica Neue",
       Segoe,"Segoe UI",
       "Lucida Sans Unicode","Lucida Grande",
