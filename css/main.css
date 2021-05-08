@@ -39,18 +39,20 @@ html {
 .navbar .nav > li.current-menu-item > a, 
 .navbar .nav > li.current-menu-ancestor > a {
     font-size:      1.1em;
-    color: #306EB7;
+    /*color: #306EB7;*/
+    color: #276678;
 }
 
 .navbar-default .navbar-brand {
-  color: #306EB7 ;
+  /*color: #306EB7;*/
+  color: #276678;
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover{
   color: #333;
 }
 
-bg-primary:hover{background-color:#0055AA}
+bg-primary:hover{background-color:#276678}
 
 .navbar .nav > li.dropdown.open.active > a:hover, 
 .navbar .nav > li.dropdown.open > a {
@@ -106,7 +108,8 @@ bg-primary:hover{background-color:#0055AA}
 }
 
 a {
-  color: #0055AA;
+  /*color: #0055AA;*/
+  color: #276678;
 }
 
 a:hover, a:focus {
