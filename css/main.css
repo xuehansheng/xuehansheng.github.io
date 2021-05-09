@@ -40,19 +40,19 @@ html {
 .navbar .nav > li.current-menu-ancestor > a {
     font-size:      1.1em;
     /*color: #306EB7;*/
-    color: #336d88;
+    color: #28527a;
 }
 
 .navbar-default .navbar-brand {
   /*color: #306EB7;*/
-  color: #336d88;
+  color: #28527a;
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover{
   color: #333;
 }
 
-bg-primary:hover{background-color:#336d88}
+bg-primary:hover{background-color:#28527a}
 
 .navbar .nav > li.dropdown.open.active > a:hover, 
 .navbar .nav > li.dropdown.open > a {
@@ -109,7 +109,7 @@ bg-primary:hover{background-color:#336d88}
 
 a {
   /*color: #0055AA;*/
-  color: #336d88;
+  color: #28527a;
 }
 
 a:hover, a:focus {
